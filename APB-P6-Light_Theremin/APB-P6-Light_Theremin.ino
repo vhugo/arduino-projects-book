@@ -28,4 +28,3 @@ void loop() {
   delay(10);
 }
 
-// nn  m  lkl x n nny gvbvvvbbvjvovnvbvvbvbbvvhvgvvgvgvvggvgvgvbvvcggfcfvvnvxx`njsjdkcururujjvjvmmughvygbjnnjbnjbnj
